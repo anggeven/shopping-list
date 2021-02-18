@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>purchased</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>20</order>
+        <record_id_field/>
+        <screen display_value="Details">210c71572f56201087049dacf699b6f9</screen>
+        <screen_data_item_table>x_580614_shopping_shopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-18 11:04:10</sys_created_on>
+        <sys_id>250cb1572f56201087049dacf699b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>purchased</sys_name>
+        <sys_package display_value="Shopping List" source="x_580614_shopping">e6f63d9f2f16201087049dacf699b6cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">e6f63d9f2f16201087049dacf699b6cd</sys_scope>
+        <sys_update_name>sys_sg_screen_field_250cb1572f56201087049dacf699b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-18 11:04:10</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=250cb1572f56201087049dacf699b613"/>
+</record_update>
